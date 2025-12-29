@@ -4,6 +4,7 @@ import Fireworks from '@/components/Fireworks';
 import ConfettiButton from '@/components/ConfettiButton';
 import BackgroundMusic from '@/components/BackgroundMusic';
 import BirthdayMessage from '@/components/BirthdayMessage';
+import BirthdayLetter from '@/components/BirthdayLetter';
 
 // Placeholder images - replace these with your uploaded photos
 const placeholderImages = [
@@ -57,6 +58,9 @@ const Index = () => {
             centerContent={<BirthdayMessage />}
           />
         </div>
+
+        {/* Continue Reading button */}
+        <BirthdayLetter />
 
         {/* Confetti button */}
         <ConfettiButton />
