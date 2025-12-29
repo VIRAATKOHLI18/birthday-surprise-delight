@@ -59,11 +59,11 @@ const Index = () => {
           />
         </div>
 
-        {/* Continue Reading button */}
-        <BirthdayLetter />
-
-        {/* Confetti button */}
-        <ConfettiButton />
+        {/* Action buttons */}
+        <div className="flex flex-col sm:flex-row items-center gap-4 mt-6">
+          <BirthdayLetter />
+          <ConfettiButton />
+        </div>
       </div>
 
       {/* Background music */}
