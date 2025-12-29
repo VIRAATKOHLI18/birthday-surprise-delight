@@ -114,7 +114,7 @@ A love like ours could be.`;
     <>
       <Button
         onClick={() => setIsOpen(true)}
-        className="mt-4 bg-gradient-to-r from-primary via-birthday-rose to-accent hover:opacity-90 text-primary-foreground font-script text-lg px-6 py-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 animate-pulse"
+        className="bg-gradient-to-r from-primary via-birthday-rose to-accent hover:opacity-90 text-primary-foreground font-script text-lg px-6 py-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 animate-pulse"
       >
         <Heart className="w-5 h-5 mr-2" />
         Continue Reading

@@ -50,7 +50,7 @@ const ConfettiButton = () => {
   return (
     <button
       onClick={triggerConfetti}
-      className="absolute bottom-8 left-1/2 -translate-x-1/2 z-30 flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-primary to-accent text-primary-foreground font-script text-xl rounded-full shadow-lg hover:scale-110 transition-transform duration-300 music-button"
+      className="flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-primary to-accent text-primary-foreground font-script text-xl rounded-full shadow-lg hover:scale-110 transition-transform duration-300"
     >
       <Sparkles size={24} />
       Celebrate!
