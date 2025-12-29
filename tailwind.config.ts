@@ -13,6 +13,10 @@ export default {
       },
     },
     extend: {
+      fontFamily: {
+        script: ['"Dancing Script"', 'cursive'],
+        sans: ['Inter', 'sans-serif'],
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
@@ -46,6 +50,13 @@ export default {
         card: {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
+        },
+        birthday: {
+          pink: "hsl(var(--birthday-pink))",
+          gold: "hsl(var(--birthday-gold))",
+          rose: "hsl(var(--birthday-rose))",
+          purple: "hsl(var(--birthday-purple))",
+          red: "hsl(var(--birthday-red))",
         },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
