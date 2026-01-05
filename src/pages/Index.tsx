@@ -51,12 +51,12 @@ const Index = () => {
 
       {/* Main content */}
       <div className="relative z-20 flex flex-col items-center justify-center min-h-screen">
-        {/* 3D Carousel with Birthday message in center */}
-        <div className="w-full max-w-4xl mx-auto">
-          <Carousel3D 
-            images={placeholderImages} 
-            centerContent={<BirthdayMessage />}
-          />
+        {/* Birthday message above the gallery */}
+        <BirthdayMessage />
+        
+        {/* 3D Carousel */}
+        <div className="w-full max-w-4xl mx-auto mt-4">
+          <Carousel3D images={placeholderImages} />
         </div>
 
         {/* Action buttons */}

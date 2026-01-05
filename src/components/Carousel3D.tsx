@@ -2,10 +2,9 @@ import { useRef, useEffect, useState, ReactNode } from 'react';
 
 interface Carousel3DProps {
   images: string[];
-  centerContent?: ReactNode;
 }
 
-const Carousel3D = ({ images, centerContent }: Carousel3DProps) => {
+const Carousel3D = ({ images }: Carousel3DProps) => {
   const containerRef = useRef<HTMLDivElement>(null);
   const spinRef = useRef<HTMLDivElement>(null);
   const [isDragging, setIsDragging] = useState(false);
@@ -72,7 +71,7 @@ const Carousel3D = ({ images, centerContent }: Carousel3DProps) => {
   return (
     <div
       ref={containerRef}
-      className="carousel-container relative w-full h-[400px] flex items-center justify-center cursor-grab active:cursor-grabbing"
+      className="carousel-container relative w-full h-[350px] flex items-center justify-center cursor-grab active:cursor-grabbing"
       onMouseDown={handleMouseDown}
       onMouseMove={handleMouseMove}
       onMouseUp={handleMouseUp}
@@ -81,13 +80,6 @@ const Carousel3D = ({ images, centerContent }: Carousel3DProps) => {
       onTouchMove={handleTouchMove}
       onTouchEnd={handleMouseUp}
     >
-      {/* Center content (birthday message) */}
-      {centerContent && (
-        <div className="absolute z-10 pointer-events-none">
-          {centerContent}
-        </div>
-      )}
-
       <div
         ref={spinRef}
         className="carousel-spin relative w-[120px] h-[150px]"
