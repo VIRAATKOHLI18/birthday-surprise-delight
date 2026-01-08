@@ -17,70 +17,63 @@ Every picture here… every memory…every small moment of your life…feels lik
 And maybe this is selfish…but I wanted to collect them, hold them gently, and tell you something the world often forgets to say, "You deserve to be celebrated — not for how you look, but for who you are."
 
 Tonight isn't about grand gestures. It's about you. Your light. Your journey. Your heart. And the truth is… looking at these moments of your life makes me realise how lucky I was, even briefly, to be a small part of your story.`,
-      image: "/placeholder.svg"
+      image: "/photo/WhatsApp Image 2025-12-23 at 3.54.46 AM.jpeg"
     },
     {
       title: "This little version of you…",
       content: `She had eyes full of wonder and a heart untouched by the world's noise. She had dreams that sparkled before life could complicate anything. And what amazes me is — even now, that same innocence sits quietly behind your smile, the same pure kindness in the way you talk, the same softness in your heart.
 
 You never lost that. And it's one of the most beautiful things about you.`,
-      image: "/placeholder.svg"
+      image: "/photo/WhatsApp Image 2025-12-23 at 3.55.07 AM.jpeg"
     },
     {
       title: "Your Journey",
       content: `This collage feels like watching sunrise turn into daylight. The little girl who didn't know anything about heartbreak or responsibility…grew into a woman who carries both tenderness and strength in the same hands. Your journey isn't just growth — it's transformation.
 
 And seeing both versions of you side by side… it's like witnessing how beautifully time has shaped you.`,
-      image: "/placeholder.svg"
+      image: "/photo/WhatsApp Image 2025-12-23 at 3.55.23 AM.jpeg"
     },
     {
       title: "Your Achievement",
       content: `This picture isn't just a milestone. It's evidence of every sacrifice, every fear, every night you push through alone. People see the gown, the smile, the certificate. But I see the courage. The determination. The unshakeable willpower.
 
 You achieved something big — and you did it with grace. I'm proud of you… more than you'll ever know.`,
-      image: "/placeholder.svg"
+      image: "/photo/WhatsApp Image 2025-12-23 at 3.55.37 AM.jpeg"
     },
     {
       title: "Your Roots",
       content: `This picture is the quietest one… but the one that speaks the loudest. Your roots. Your home. Your safe place. Everything that shaped your heart into the gentle, caring, loving thing it is today.
 
 And seeing you stand with them… I can feel the warmth you grew up with. It explains the kind of woman you became.`,
-      image: "/placeholder.svg"
+      image: "/photo/WhatsApp Image 2025-12-23 at 3.55.49 AM.jpeg"
     },
     {
       title: "Your Freedom",
       content: `There's something magical about this one. The wind in your hair, the energy in your eyes… you look free — like someone who didn't need anyone to complete her, because she already carried a whole universe inside her.
 
 And that's the version of you I always admired from a distance… the version that makes the world feel a little more alive just by being in it.`,
-      image: "/placeholder.svg"
+      image: "/photo/WhatsApp Image 2025-12-23 at 3.56.04 AM.jpeg"
     },
     {
       title: "Your Grace",
       content: `You in a saree… that's a different level of breathtaking. There's grace, femininity, elegance — and something deeper… something that makes people pause without realising it.
 
 If beauty had a heartbeat, it would look like you in this picture.`,
-      image: "/placeholder.svg"
+      image: "/photo/WhatsApp Image 2025-12-23 at 3.56.29 AM.jpeg"
     },
     {
       title: "Your Glow",
       content: `Some pictures don't need words. This one is like a moment frozen in time — your calmness, your glow, your silent beauty. Not loud, not dramatic, not trying to be perfect… just effortlessly captivating.
 
 You have a way of looking beautiful without even trying — and that's rare.`,
-      image: "/placeholder.svg"
-    },
-    {
-      title: "Your Comfort",
-      content: `This picture is comfort. Warmth. Simplicity. The kind of effortless charm that makes someone feel at home without knowing why. It's the kind of beauty that doesn't shout — it whispers.
-
-And sometimes, whispers hit deeper than anything else.`,
-      image: "/placeholder.svg"
+      image: "/photo/WhatsApp Image 2025-12-23 at 3.56.41 AM.jpeg"
     },
     {
       title: "Your Celebration",
       content: `You looked like celebration itself that day — like the moment you smiled, the whole room softened. I remember looking at you and thinking, "If beauty had a language, today she's speaking it."
 
 You didn't just look beautiful… you looked divine. The kind of divine that stays in someone's mind long after the moment ends.`,
-      image: "/placeholder.svg"
+      image: "/photo/WhatsApp Image 2025-12-23 at 3.56.54 AM.jpeg"
     }
   ];
 
