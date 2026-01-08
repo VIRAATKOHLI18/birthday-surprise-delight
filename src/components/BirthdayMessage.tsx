@@ -13,7 +13,7 @@ const BirthdayMessage = () => {
         <div className="mt-3 flex items-center justify-center gap-2">
           <span className="w-8 h-[2px] bg-gradient-to-r from-transparent to-secondary" />
           <p className="font-script text-2xl md:text-3xl lg:text-4xl text-foreground">
-            Miss Bose
+            Mummum
           </p>
           <span className="w-8 h-[2px] bg-gradient-to-l from-transparent to-secondary" />
         </div>
