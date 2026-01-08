@@ -6,18 +6,17 @@ import BackgroundMusic from '@/components/BackgroundMusic';
 import BirthdayMessage from '@/components/BirthdayMessage';
 import BirthdayLetter from '@/components/BirthdayLetter';
 
-// Placeholder images - replace these with your uploaded photos
-const placeholderImages = [
-  '/placeholder.svg',
-  '/placeholder.svg',
-  '/placeholder.svg',
-  '/placeholder.svg',
-  '/placeholder.svg',
-  '/placeholder.svg',
-  '/placeholder.svg',
-  '/placeholder.svg',
-  '/placeholder.svg',
-  '/placeholder.svg',
+// Your uploaded photos
+const birthdayImages = [
+  '/photo/WhatsApp Image 2025-12-23 at 3.54.46 AM.jpeg',
+  '/photo/WhatsApp Image 2025-12-23 at 3.55.07 AM.jpeg',
+  '/photo/WhatsApp Image 2025-12-23 at 3.55.23 AM.jpeg',
+  '/photo/WhatsApp Image 2025-12-23 at 3.55.37 AM.jpeg',
+  '/photo/WhatsApp Image 2025-12-23 at 3.55.49 AM.jpeg',
+  '/photo/WhatsApp Image 2025-12-23 at 3.56.04 AM.jpeg',
+  '/photo/WhatsApp Image 2025-12-23 at 3.56.29 AM.jpeg',
+  '/photo/WhatsApp Image 2025-12-23 at 3.56.41 AM.jpeg',
+  '/photo/WhatsApp Image 2025-12-23 at 3.56.54 AM.jpeg',
 ];
 
 // Replace this with your uploaded music file path
@@ -56,7 +55,7 @@ const Index = () => {
         
         {/* 3D Carousel */}
         <div className="w-full max-w-4xl mx-auto mt-4">
-          <Carousel3D images={placeholderImages} />
+          <Carousel3D images={birthdayImages} />
         </div>
 
         {/* Action buttons */}
