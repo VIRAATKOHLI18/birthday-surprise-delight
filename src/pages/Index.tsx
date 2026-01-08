@@ -19,8 +19,8 @@ const birthdayImages = [
   '/photo/WhatsApp Image 2025-12-23 at 3.56.54 AM.jpeg',
 ];
 
-// Replace this with your uploaded music file path
-const musicPath = undefined; // e.g., '/music/birthday-song.mp3'
+// Background music path
+const musicPath = '/music/WhatsApp Audio 2025-12-30 at 9.45.21 PM.mpeg';
 
 const Index = () => {
   return (
