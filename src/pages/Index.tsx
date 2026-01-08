@@ -6,21 +6,21 @@ import BackgroundMusic from '@/components/BackgroundMusic';
 import BirthdayMessage from '@/components/BirthdayMessage';
 import BirthdayLetter from '@/components/BirthdayLetter';
 
-// Your uploaded photos
+// Your uploaded photos - URL encoded for spaces
 const birthdayImages = [
-  '/photo/WhatsApp Image 2025-12-23 at 3.54.46 AM.jpeg',
-  '/photo/WhatsApp Image 2025-12-23 at 3.55.07 AM.jpeg',
-  '/photo/WhatsApp Image 2025-12-23 at 3.55.23 AM.jpeg',
-  '/photo/WhatsApp Image 2025-12-23 at 3.55.37 AM.jpeg',
-  '/photo/WhatsApp Image 2025-12-23 at 3.55.49 AM.jpeg',
-  '/photo/WhatsApp Image 2025-12-23 at 3.56.04 AM.jpeg',
-  '/photo/WhatsApp Image 2025-12-23 at 3.56.29 AM.jpeg',
-  '/photo/WhatsApp Image 2025-12-23 at 3.56.41 AM.jpeg',
-  '/photo/WhatsApp Image 2025-12-23 at 3.56.54 AM.jpeg',
+  '/photo/WhatsApp%20Image%202025-12-23%20at%203.54.46%20AM.jpeg',
+  '/photo/WhatsApp%20Image%202025-12-23%20at%203.55.07%20AM.jpeg',
+  '/photo/WhatsApp%20Image%202025-12-23%20at%203.55.23%20AM.jpeg',
+  '/photo/WhatsApp%20Image%202025-12-23%20at%203.55.37%20AM.jpeg',
+  '/photo/WhatsApp%20Image%202025-12-23%20at%203.55.49%20AM.jpeg',
+  '/photo/WhatsApp%20Image%202025-12-23%20at%203.56.04%20AM.jpeg',
+  '/photo/WhatsApp%20Image%202025-12-23%20at%203.56.29%20AM.jpeg',
+  '/photo/WhatsApp%20Image%202025-12-23%20at%203.56.41%20AM.jpeg',
+  '/photo/WhatsApp%20Image%202025-12-23%20at%203.56.54%20AM.jpeg',
 ];
 
-// Background music path
-const musicPath = '/music/WhatsApp Audio 2025-12-30 at 9.45.21 PM.mpeg';
+// Background music path - URL encoded for spaces
+const musicPath = '/music/WhatsApp%20Audio%202025-12-30%20at%209.45.21%20PM.mpeg';
 
 const Index = () => {
   return (

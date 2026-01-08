@@ -90,7 +90,8 @@ const Carousel3D = ({ images }: Carousel3DProps) => {
             key={index}
             src={src}
             alt={`Photo ${index + 1}`}
-            className="carousel-item object-cover bg-muted"
+            className="carousel-item object-cover bg-muted w-[120px] h-[150px] rounded-lg shadow-lg"
+            onError={(e) => console.log('Image failed to load:', src)}
           />
         ))}
       </div>
