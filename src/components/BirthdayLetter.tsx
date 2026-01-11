@@ -68,12 +68,18 @@ If beauty had a heartbeat, it would look like you in this picture.`,
 You have a way of looking beautiful without even trying — and that's rare.`,
       image: "/photo/7.jpeg"
     },
+    { 
+      title: "Comfort",
+      content: `This picture is comfort.
+Warmth. Simplicity. The kind of effortless charm that makes someone feel at home without knowing why. It’s the kind of beauty that doesn’t shout it whispers. And sometimes, whispers hit deeper than anything else.`,
+      image: "/photo/8.jpeg"
+    },
     {
       title: "Your Celebration",
       content: `You looked like celebration itself that day — like the moment you smiled, the whole room softened. I remember looking at you and thinking, "If beauty had a language, today she's speaking it."
 
 You didn't just look beautiful… you looked divine. The kind of divine that stays in someone's mind long after the moment ends.`,
-      image: "/photo/8.jpeg"
+      image: "/photo/9.jpeg"
     }
   ];
 
