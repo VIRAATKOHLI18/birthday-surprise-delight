@@ -8,15 +8,15 @@ import BirthdayLetter from '@/components/BirthdayLetter';
 
 // Your uploaded photos - URL encoded for spaces
 const birthdayImages = [
-  '/photo/WhatsApp%20Image%202025-12-23%20at%203.54.46%20AM.jpeg',
-  '/photo/WhatsApp%20Image%202025-12-23%20at%203.55.07%20AM.jpeg',
-  '/photo/WhatsApp%20Image%202025-12-23%20at%203.55.23%20AM.jpeg',
-  '/photo/WhatsApp%20Image%202025-12-23%20at%203.55.37%20AM.jpeg',
-  '/photo/WhatsApp%20Image%202025-12-23%20at%203.55.49%20AM.jpeg',
-  '/photo/WhatsApp%20Image%202025-12-23%20at%203.56.04%20AM.jpeg',
-  '/photo/WhatsApp%20Image%202025-12-23%20at%203.56.29%20AM.jpeg',
-  '/photo/WhatsApp%20Image%202025-12-23%20at%203.56.41%20AM.jpeg',
-  '/photo/WhatsApp%20Image%202025-12-23%20at%203.56.54%20AM.jpeg',
+  '/photo/1.jpeg',
+  '/photo/2.jpeg',
+  '/photo/3.jpeg',
+  '/photo/4.jpeg',
+  '/photo/5.jpeg',
+  '/photo/6.jpeg',
+  '/photo/7.jpeg',
+  '/photo/8.jpeg',
+  '/photo/9.jpeg',
 ];
 
 // Background music path - URL encoded for spaces
