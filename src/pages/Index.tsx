@@ -20,7 +20,7 @@ const birthdayImages = [
 ];
 
 // Background music path - URL encoded for spaces
-const musicPath = '/music/WhatsApp%20Audio%202025-12-30%20at%209.45.21%20PM.mpeg';
+const musicPath = '/music/m.mpeg';
 
 const Index = () => {
   return (
