@@ -91,30 +91,8 @@ I don't want to rush you. I don't want to trap you. I don't want to force your h
 
 Happy Birthday… to the woman who became my sweetest memory — and somehow… the hope I still hold gently inside me.`;
 
-  const finalConfession = `You know… I never understood how two people could drift apart and still feel connected, until us. Because even in the quiet spaces, even in the distance, you stayed with me in a way I can't explain.
-
-And it reminds me of Monica and Chandler. They weren't some big dramatic love story. They didn't fall in love in one grand moment — it happened slowly, softly, in the small ways they showed up for each other. A friendship that turned into a feeling… a feeling that refused to disappear… and a bond that became home without either of them even realising it.
-
-And that's exactly what you became for me.
-
-With you, everything felt familiar — like I didn't have to pretend, didn't have to impress, didn't have to hide the messy parts of me. The way Chandler found comfort in Monica's presence, I found that comfort in you… in your voice, in your care, in the way you understood things I never said.
-
-I used to think love had to be loud and obvious. But Monica and Chandler taught me that sometimes the strongest love starts quietly — in moments no one else notices, in memories that refuse to fade, in the way you catch yourself missing someone even after trying to let go.
-
-And maybe that's why — no matter what happened, no matter how many mistakes or fears came between us… my heart keeps finding its way back to you.
-
-Not with pressure. Not with expectations. Not asking for anything from you.
-
-Just with a truth that feels more real every day:
-
-I'm in love with you.
-
-Not in the dramatic Ross-and-Rachel way… but in the steady, choosing-you-everyday, "you're my safe place" Monica-and-Chandler way.
-
-And if life ever gives us even the smallest chance — I want to show you a love that's patient, warm, soft, steady… the kind of love that grows quietly but stays forever.
-
-A love like theirs.
-A love like ours could be.`;
+  const finalConfession = `
+You know… I never understood how two people could drift apart and still feel connected, until us. Because even in the quiet spaces, even in the distance, you stayed with me in a way I can’t explain. And it reminds me of Monica and Chandler. They weren’t some big dramatic love story. They didn’t fall in love in one grand moment it happened slowly, softly, in the small ways they showed up for each other. A friendship that turned into a feeling… a feeling that refused to disappear… and a bond that became home without either of them even realising it. And that’s exactly what you became for me. With you, everything felt familiar like I didn’t have to pretend, didn’t have to impress, didn’t have to hide the messy parts of me. The way Chandler found comfort in Monica’s presence, I found that comfort in you… in your voice, in your care, in the way you understood things I never said. I used to think love had to be loud and obvious. But Monica and Chandler taught me that sometimes the strongest love starts quietly in moments no one else notices, in memories that refuse to fade, in the way you catch yourself missing someone even after trying to let go. And maybe that’s why no matter what happened, no matter how many mistakes or fears came between us… my heart keeps finding its way back to you. Not with pressure. Not with expectations. Not asking for anything from you. Just with a truth that feels more real every day: I’m in love with you. Not in the dramatic Ross-and-Rachel way… but in the steady, choosing-you-everyday, “you’re my safe place” Monica-and-Chandler way. And if life ever gives us even the smallest chance I want to show you a love that’s patient, warm, soft, steady… the kind of love that grows quietly but stays forever. A love like theirs. A love like ours could be`;
 
   const hindiQuote = `तू भगीरथी सी चंचल मैं अलकनन्दा सा शांत प्रिये,
 जब संगम हो हमारा, तू बने गंगा और मैं तेरा घाट प्रिये ।`;
