@@ -69,7 +69,7 @@ You have a way of looking beautiful without even trying — and that's rare.`,
       image: "/photo/7.jpeg"
     },
     { 
-      title: "Comfort",
+      title: "The Comfort",
       content: `This picture is comfort.
 Warmth. Simplicity. The kind of effortless charm that makes someone feel at home without knowing why. It’s the kind of beauty that doesn’t shout it whispers. And sometimes, whispers hit deeper than anything else.`,
       image: "/photo/8.jpeg"
